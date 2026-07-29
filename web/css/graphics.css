@@ -1,0 +1,145 @@
+.site-about{
+}
+.graphic-block{
+	background-color: white;
+	min-width: 500px;
+	height:auto;
+	padding:20px;
+	/*overflow-x: scroll;
+	overflow-y: hidden;
+*/    white-space: nowrap;
+}
+.graphic{
+	display: inline-block;
+	margin-bottom:20px;
+	margin-top:30px;
+	margin-right: 80px;
+	margin-left: 30px;
+	min-width: 385px;
+	border:1px solid gray;
+	width:50%;
+	height: 470px;
+	border-radius: 10px;
+	box-shadow: 8px 0px 10px gray;
+}
+.graphic-block-about{
+	background-color: white;
+	min-width: 500px;
+	height:auto;
+	padding:20px;
+}
+.progress-line1{
+	height: 10px;
+	border-radius:0px 8px 8px 0px;
+	margin-top: 16px;
+	margin-bottom: 4%;
+}
+.hiddenprogress
+{display: none;
+	width: 500px;
+	overflow:hidden;
+	margin-right: 0px;
+	overflow-x:hidden;
+    white-space: pre-wrap;       /* css-3 */
+white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+white-space: -pre-wrap;      /* Opera 4-6 */
+white-space: -o-pre-wrap;    /* Opera 7 */
+word-wrap: break-word; 
+position: absolute;
+margin-bottom: 0%;
+background-color: #fff;
+color: #007cc1;
+padding: 5px;
+text-align: center;
+-moz-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+box-shadow: 0 1px 1px rgba(0,0,0,.16);
+border-radius:5px;
+border:2px solid #007cc1;
+z-index: 10;
+font-size: 20px;
+	}
+/* Появление скрытого элемента при наведении */
+.progress-line1:hover + .hiddenprogress{display: block;}
+.score{
+	position: relative;
+	text-align: right;
+	font-size:16px;
+	top: 5px;
+	right: 6px;
+	font-weight:bold;
+}
+.formax{
+	width: 96%;
+	height: 98.7%;
+	background: linear-gradient(to right, white 20%, gray 1px, white 20.35%,white 40%,gray 1px,white 40.35%,white 60%,gray 1px,white 60.35%,white 80%,gray 1px,white 99.35%, cyan 99.35%,gray 1px);
+   	background: linear-gradient(to right, white 20%, gray 1px, white 20.35% 40%,gray 1px,white 40.35% 60%,gray 1px,white 60.35% 80%,gray 1px,white 80.35% 99.35%,gray 1px);
+}
+.history{
+	background-color: white;
+	width: 100%;
+	height: 30px;
+	max-width: 2080px;
+	border-radius: 0px 0px 10px 10px;
+	font-size:10px;
+}
+.colleg{
+	margin-left: 10px;
+	width:40px;
+	height: 30px;
+	margin-top: 3px;
+}
+.hidden3
+{display: none;
+position: absolute;
+margin-bottom: 0%;
+background-color: #fff;
+color: #007cc1;
+padding: 5px;
+text-align: center;
+-moz-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+box-shadow: 0 1px 1px rgba(0,0,0,.16);
+border-radius:5px;
+border:2px solid #007cc1;
+z-index: 10;
+font-size: 20px;}
+/* Появление скрытого элемента при наведении */
+.hover3:hover + .hidden3{display: block;}
+.hidden2
+{display: none;
+position: absolute;
+margin-bottom: 0%;
+background-color: #fff;
+color: #007cc1;
+padding: 5px;
+text-align: center;
+-moz-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+box-shadow: 0 1px 1px rgba(0,0,0,.16);
+border-radius:5px;
+border:2px solid #007cc1;
+z-index: 10;
+font-size: 20px;}
+/* Появление скрытого элемента при наведении */
+.hover2:hover + .hidden2{display: block;}
+.hidden1
+{display: none;
+position: absolute;
+margin-bottom: 0%;
+background-color: #fff;
+color: #007cc1;
+padding: 5px;
+text-align: center;
+-moz-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.16);
+box-shadow: 0 1px 1px rgba(0,0,0,.16);
+border-radius:5px;
+border:2px solid #007cc1;
+z-index: 10;
+font-size: 20px;}
+/* Появление скрытого элемента при наведении */
+.hover1:hover + .hidden1{display: block;}
+.question{
+	margin-top:-48px;
+}

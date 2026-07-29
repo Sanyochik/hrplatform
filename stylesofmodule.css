@@ -1,0 +1,55 @@
+.SLT-SearchForm-blue__field{
+    font-weight: bold;
+    font-weight: bold !important;
+}
+.SLT-ArrivalCountrySelect-blue__fieldValueInput{
+    font-weight: bold !important;
+}
+.SLT-DepartureCitySelect-blue__fieldValueInput{
+    font-weight: bold !important;
+}
+.SLT-ResortsSelect-blue__fieldValueInput{
+    font-weight: bold !important;
+}
+.SLT-HotelsSelect-blue__fieldValueInput{
+    font-weight: bold !important;
+}
+.SLT-SearchForm-blue__container{
+    max-width: 1180px !important;
+}
+.SLT-SearchForm-blue__fourFields{
+    background-color:white !important;
+    font-weight: bold !important;
+}
+.SLT-MealsSelect-blue__fieldTitle{
+    color:#9b9b9b !important;
+    font-weight: bold !important;
+}
+.SLT-MealsSelect-blue__fieldValue{
+    color:#313140 !important;
+    font-weight: bold !important;
+}
+.SLT-HotelCategoriesSelect-blue__fieldTitle{
+    color:#9b9b9b !important;
+    font-weight: bold !important;
+}
+.SLT-HotelCategoriesSelect-blue__fieldValue{
+    color:#313140 !important;
+    font-weight: bold !important;
+}
+.SLT-HotelsSelect-blue__fieldLabel{
+    color:#9b9b9b !important;
+    font-weight: bold !important;
+}
+.SLT-HotelsSelect-blue__fieldValueInput{
+    color:#313140 !important;
+    font-weight: bold !important;
+}
+.SLT-ResortsSelect-blue__fieldLabel{
+    color:#9b9b9b !important;
+    font-weight: bold !important;
+}
+.SLT-ResortsSelect-blue__fieldValueInput{
+    color:#313140 !important;
+    font-weight: bold !important;
+}
